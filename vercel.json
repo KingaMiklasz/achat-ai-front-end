@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "framework": "expo",
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
+  "framework": null,
+  "buildCommand": "npx expo export -p web",
   "installCommand": "npm install",
+  "outputDirectory": "dist",
   "public": false
 }
