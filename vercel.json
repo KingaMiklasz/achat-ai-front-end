@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "framework": "expo",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "public": false
+}
